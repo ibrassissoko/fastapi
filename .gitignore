@@ -2,4 +2,4 @@ __python__/
 __pycache__/
 /venv/
 .env
-.env.*
+/alembic/
